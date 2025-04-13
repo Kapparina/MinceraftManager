@@ -64,10 +64,10 @@ type MainClass struct {
 	ClassName string
 }
 
-Minecraft mod
+// ModConfig represents the configuration of a Minecraft mod
 //
 //goland:noinspection GoNameStartsWithPacka
-// ModConfig represents the configuration of a Minecraft mod
+//goland:noinspection GoNa
 //goland:noinspection GoNameStartsWithPackageName
 type ModConfig struct {
 	// Basic information about the mod

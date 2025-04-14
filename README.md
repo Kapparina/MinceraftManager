@@ -21,7 +21,7 @@ combines the speed of Go with modern web technologies like **TypeScript** and **
 ## **⚙️ How to Get Started**
 
 1. **📥 Download the Release:**  
-   Head over to the [**Releases Page**](<repository-url>/releases) and download the latest version of **Minceraft
+   Head over to the [**Releases Page**](https://github.com/Kapparina/MinceraftManager/releases) and download the latest version of **Minceraft
    Manager** for your operating system.
 
 2. **▶️ Run the Application:**
@@ -37,7 +37,7 @@ combines the speed of Go with modern web technologies like **TypeScript** and **
 
 ## **📜 License**
 
-This project is licensed under **[License Name]**. See the `LICENSE` file for further details.
+This project is licensed under **[GNU GPLv3](./LICENSE)**. 
 
 ---
 

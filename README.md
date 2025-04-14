@@ -1,19 +1,44 @@
-# README
+# **🌌 Minceraft Manager**
 
-## About
+## **Description**
 
-This is the official Wails Vanilla-TS template.
+**Minceraft Manager** is a **desktop application** designed to help you easily manage **Minecraft mods** and **resource
+packs**. With a sleek interface and a powerful backend, the app simplifies the process of organizing, installing, and
+removing mods or resource packs effortlessly. Built using the cutting-edge [**Wails**](https://wails.io/) framework, it
+combines the speed of Go with modern web technologies like **TypeScript** and **Vite**.
 
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
+---
 
-## Live Development
+## **✨ Features**
 
-To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
-server that will provide very fast hot reload of your frontend changes. If you want to develop in a browser
-and have access to your Go methods, there is also a dev server that runs on http://localhost:34115. Connect
-to this in your browser, and you can call your Go code from devtools.
+- **🎮 Cross-Platform Support:** Work seamlessly on Windows, macOS, and Linux.
+- **📦 Mod & Resource Pack Management:** Organize, install, and remove Minecraft mods with just a few clicks.
+- **⚡ Lightning-Fast:** Built with Go for performance and reliability.
+- **🚀 User-Friendly Interface:** Navigate with ease and save time.
 
-## Building
+---
 
-To build a redistributable, production mode package, use `wails build`.
+## **⚙️ How to Get Started**
+
+1. **📥 Download the Release:**  
+   Head over to the [**Releases Page**](<repository-url>/releases) and download the latest version of **Minceraft
+   Manager** for your operating system.
+
+2. **▶️ Run the Application:**
+    - **Windows**: Double-click the downloaded `.exe` file to launch.
+    - **macOS/Linux**: Extract the archive if necessary and open the application file.
+
+3. **✅ Manage Your Mods & Resource Packs:**
+    - **Add** new mods or resource packs to your Minecraft setup.
+    - **Organize** existing mods for better efficiency.
+    - **Delete** or update mods in no time.
+
+---
+
+## **📜 License**
+
+This project is licensed under **[License Name]**. See the `LICENSE` file for further details.
+
+---
+
+> **⌨️ Happy Modding!**
